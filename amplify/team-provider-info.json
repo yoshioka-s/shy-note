@@ -1,0 +1,14 @@
+{
+    "shynote": {
+        "awscloudformation": {
+            "AuthRoleName": "shy-note-shynote-20191013150952-authRole",
+            "UnauthRoleArn": "arn:aws:iam::793062709335:role/shy-note-shynote-20191013150952-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::793062709335:role/shy-note-shynote-20191013150952-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "shy-note-shynote-20191013150952-deployment",
+            "UnauthRoleName": "shy-note-shynote-20191013150952-unauthRole",
+            "StackName": "shy-note-shynote-20191013150952",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:793062709335:stack/shy-note-shynote-20191013150952/1219fa80-ed80-11e9-b2bf-0aa3c9b7e68c"
+        }
+    }
+}
